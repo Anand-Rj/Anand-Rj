@@ -10,13 +10,13 @@
 📫 Reach me at: anandrj@arizona.edu or connect on [LinkedIn](https://www.linkedin.com/in/anandramaswamy)  
 🌱 Fun fact: I’ve published multiple award-winning papers at IEEE Xplore & Kyoto University 🇯🇵  
 
-> "Innovate fearlessly. Solve what matters."
+> "Making impossible the possible"
 
 ---
 
 ## 📈 GitHub Stats
 
-![Anand's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anand-rj&show_icons=true&theme=radical)
+![Anand's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anand-rj&show_icons=false&theme=radical)
 
 ---
 
