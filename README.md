@@ -16,7 +16,7 @@
 
 ## 📈 GitHub Stats
 
-![Anand's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anand-rj&show_icons=false&theme=radical)
+![Anand's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anand-rj&show_icons=true&theme=radical)
 
 ---
 
