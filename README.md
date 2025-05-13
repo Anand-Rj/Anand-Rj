@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hello 👋, I'm Anand Ramaswamy Jayshree
 
-<!--
-**Anand-Rj/Anand-Rj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 AI Researcher | Data Scientist | Indie Builder  
 
-Here are some ideas to get you started:
+🎓 I'm a Master's student in Information Science at the **University of Arizona**  
+🤖 Passionate about **Machine Learning**, **LLMs**, and **Biotech Simulations**  
+🔬 Currently working on **Cell Simulation using Reinforcement Learning** and  
+🧠 **Stroke Detection using MRI Images** at the Department of Neurosurgery  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Reach me at: anandrj@arizona.edu or connect on [LinkedIn](https://www.linkedin.com/in/anandramaswamy)  
+🌱 Fun fact: I’ve published multiple award-winning papers at IEEE Xplore & Kyoto University 🇯🇵  
+
+> "Innovate fearlessly. Solve what matters."
+
+---
+
+## 📈 GitHub Stats
+
+![Anand's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anand-rj&show_icons=true&theme=radical)
+
+---
+
+## 🧰 Tech Stack
+
+**Languages:** Python, Java, C, HTML/CSS, JavaScript  
+**Frameworks/Libraries:** PyTorch, TensorFlow, HuggingFace, Django, FastAPI  
+**Databases:** MongoDB, Firebase, MySQL, S3 Buckets  
+**Tools:** Git, Docker, Kubernetes, Jupyter, AWS, Google Cloud, Verilog (basic)
+
+---
+
+## 🎯 Current Focus
+- 🔍 Applying AI in Biotechnology
+- 🧠 LLM-based healthcare applications
+- 🤝 Seeking a **PhD Advisor** for Fall 2024 with a GRA opportunity
+
+---
+
+🧠 _“Let's build the future, one line of code at a time.”_
